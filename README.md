@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melvin2224
-- 👀 I’m interested in Machine Learning/Artificial intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning/Artificial intelligence/Software engineering
+- 🌱 I’m currently learning Python and an alx SE student
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me Kingice3453@gmail.com
 
